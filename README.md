@@ -21,6 +21,6 @@ Perform SQL queries for business insights using SELECT, JOINs, GROUP BY, subquer
 
 ## Files in Repository
 - `task4_queries.sql` – All 6 queries
-- `screenshots/` – Output screenshots
+- `query1-6.png` – Output screenshots
 - `README.md` – Task summary and explanation
 
